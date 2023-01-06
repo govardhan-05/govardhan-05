@@ -6,22 +6,23 @@
 
 Check out my projects:
 
--This is an e-commerce application
+1. This is an e-commerce Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where users can login and can see list of products with search, filters, sort by, etc.. 
+Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
 https://ggnxttrendz.ccbp.tech/login 
 Username: rahul
 Password: rahul@2021
 
-Book Hub (Goodreads Clone) 
+2. Book Hub (Goodreads Clone) 
 https://ggbookhub.ccbp.tech 
 Username: rahul
 Password: rahul@2021
 Implemented responsive Goodreads Clone where users can log in and see a list of books, bookshelves like all shelves (books sorted by rating), completed reading shelf, currently reading shelf, want to read shelf , and user can also search books with author's name and book's name.
+Technologies used: HTML, CSS, JavaScript, React JS, Bootstrap, React Rating Stars, React Select, Figma, client storage.
 
--Newbie game
+3. Newbie game, Developed responsive Emoji memory game where users can win it by clicking unique emoji each time till all displayed emojis are clicked. All emojis positions will be randomized after each click.
+Technologies used: React JS, CSS, Bootstrap
 https://ggemojigame.ccbp.tech/
 
--Todo application 
-http://ggtodoapp.ccbp.tech
 
 <!---
 govardhan-05/govardhan-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
